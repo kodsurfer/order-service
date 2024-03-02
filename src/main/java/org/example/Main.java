@@ -13,6 +13,6 @@ public class Main {
         server.createContext("/", new MyHandler());
         server.setExecutor(null); // creates a default executor
         server.start();
-        System.out.println("Server started on port 8000");
+        System.out.println("Server started on port 8080");
     }
 }
