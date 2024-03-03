@@ -1,4 +1,4 @@
-package org.example;
+package org.example.orderservice;
 
 import com.sun.net.httpserver.HttpServer;
 
